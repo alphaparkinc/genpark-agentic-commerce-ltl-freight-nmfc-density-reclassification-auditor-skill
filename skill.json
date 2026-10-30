@@ -1,0 +1,16 @@
+{
+  "name": "genpark-agentic-commerce-ltl-freight-nmfc-density-reclassification-auditor-skill",
+  "version": "1.0.0",
+  "title": "LTL Freight NMFC Density Reclassification & Dispute Auditor Skill",
+  "category": "Agentic Commerce (Logistics / Freight Auditing)",
+  "description": "Calculates shipment density in PCF, maps to standard NMFC 11-tier classification, audits carrier re-weigh and re-class upcharges, and drafts dispute evidence packages.",
+  "author": {
+    "name": "GenPark Ecosystem",
+    "url": "https://www.genpark.ai",
+    "linkedin": "https://www.linkedin.com/company/92955550"
+  },
+  "mcp_tools": [
+    "audit_ltl_density_reclassification"
+  ],
+  "dependencies": []
+}
